@@ -1,8 +1,8 @@
 # Pong
 Ping-pong Ding-dong
 
-#Language and Frameworks
+Language and Frameworks
 Python
 
-#Art and Icons
+Art and Icons
 Icons8
