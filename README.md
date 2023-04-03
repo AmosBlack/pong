@@ -9,7 +9,7 @@ The bottom paddle is controlled using the 'a' and 'd' keys, while the right padd
 ## Language and Frameworks
 Main Language: Python
 >Pygame
->icons8
+
 
 ## Code
 This is a Python code for a ping-pong game using Pygame library. The code initializes the necessary variables and objects required to create the game window and display the game elements such as paddles, ball, score, and game menu. It also defines functions for calculating the distance between two points and playing sounds for the game. The code also implements a countdown sound effect and music that can be played throughout the game. The game itself is a two-player game with one player controlling the paddle on the bottom of the screen, and the other player controlling the paddle at the top of the screen. The objective of the game is to hit the ball back and forth between the two paddles without letting it fall off the screen. If the ball hits the opponent's paddle, the opponent loses a point. The game ends when one of the players reaches a certain number of points. There are also two additional game modes implemented in the code - an AI mode where the player competes against a computer-controlled opponent, and a two-player mode where two human players compete against each other. These game modes can be selected from the game menu.
